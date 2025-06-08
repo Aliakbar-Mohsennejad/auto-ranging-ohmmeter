@@ -1,10 +1,10 @@
+# Auto-Ranging Ohmmeter
+
+This project was developed as part of the "Digital Systems 2" course at K. N. Toosi University of Technology. The goal was to design and implement an ohmmeter capable of automatically selecting the appropriate resistance measurement range.
 <p align="center">
   <img src="Images/Not loaded any Res.jpg" alt="Project Cover" width="600">
 </p>
 
-# Auto-Ranging Ohmmeter
-
-This project was developed as part of the "Digital Systems 2" course at K. N. Toosi University of Technology. The goal was to design and implement an ohmmeter capable of automatically selecting the appropriate resistance measurement range.
 
 ##  Project Overview
 
